@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   style="isolation:isolate"
+   viewBox="0 0 271.4 51.471"
+   width="271.39999pt"
+   height="51.471001pt"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="atari.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="pt"
+     inkscape:zoom="3.5897201"
+     inkscape:cx="180.93333"
+     inkscape:cy="44.989581"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="_clipPath_Y7hrMf6TKMWHS30HgHPzu7J2uppEWGV6">
+      <rect
+         width="271.39999"
+         height="67.471001"
+         id="rect1"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#_clipPath_Y7hrMf6TKMWHS30HgHPzu7J2uppEWGV6)"
+     id="g1">
+    <path
+       d="M 43.487,29.936 C 48.716,22.02 48.598,5.171 48.598,1.02 h 3.851 C 52.433,2.618 53.288,18.68 50.577,28.795 47.865,38.91 37.741,50.257 25.502,50.257 V 43.08 c 3.599,0 12.759,-5.229 17.985,-13.144 z M 53.519,1.02 h 6.9 v 49.339 h -6.9 z m 16.93,28.916 C 65.22,22.02 65.338,5.171 65.338,1.02 h -3.851 c 0.016,1.598 -0.839,17.66 1.872,27.775 2.712,10.115 12.836,21.462 25.075,21.462 V 43.08 c -3.599,0 -12.759,-5.229 -17.985,-13.144 z M 237.97,1.3 h 7.928 v 49.83 h -7.928 z m -125.25,9.602 5.453,20.735 h -10.781 z m 15.49,-9.789 v 6.69 h 12.308 v 43.329 h 7.93 V 7.803 h 12.35 v -6.69 z m 93.257,31.926 c -0.231,-0.395 -0.371,-0.871 -0.371,-1.399 0,-0.477 0.121,-0.909 0.308,-1.28 0.294,-0.463 0.82,-0.725 1.171,-0.948 4.128,-2.509 7.059,-7.784 7.059,-13.894 0,-8.193 -5.157,-14.906 -11.552,-15.424 C 217.285,-0.011 215.488,0 215.488,0 h -9.024 0.005 c -3.13,0 -5.675,3.389 -5.675,7.564 l 0.012,0.012 v 43.55 h 7.705 V 10.685 h -0.003 c 0,-1.267 0.771,-2.301 1.72,-2.301 h 5.199 c 0.472,0 1.883,0.035 2.163,0.088 v 0.005 c 2.299,0.251 4.166,2.434 4.708,5.323 0.03,0.118 0.051,0.235 0.066,0.354 v 0.027 c 0.031,0.177 0.045,0.345 0.061,0.516 0.028,0.269 0.033,0.543 0.033,0.82 0,2.66 -1.1,4.988 -2.727,6.196 -0.33,0.261 -0.671,0.488 -1.032,0.684 -0.255,0.154 -0.551,0.297 -0.862,0.436 -2.078,0.978 -2.97,1.557 -3.838,2.669 -0.973,1.359 -1.588,3.194 -1.605,5.222 -0.015,1.906 0.482,3.647 1.329,4.996 l 9.788,15.412 h 9.168 L 221.467,33.038 Z m -108.663,-33 c -2.497,0 -4.628,1.547 -5.452,3.759 V 3.839 L 93.225,51.132 h 8.467 l 3.264,-12.846 h 15.736 l 3.428,12.846 h 8.674 L 118.296,3.798 h -0.04 c -0.835,-2.201 -2.955,-3.759 -5.452,-3.759 z m 63.987,10.863 5.451,20.735 h -10.779 z m 0.081,-10.863 c -2.496,0 -4.627,1.547 -5.451,3.759 v 0.041 l -14.126,47.293 h 8.467 l 3.263,-12.846 h 15.736 l 3.43,12.846 h 8.672 L 182.367,3.798 h -0.042 c -0.833,-2.201 -2.954,-3.759 -5.453,-3.759 z"
+       fill-rule="evenodd"
+       fill="#ffffff"
+       id="path1"
+       sodipodi:nodetypes="scccccsccccscccccccccscccccsccscccccccccccccccccccccccsccsccccccccccssccccccsccccccccccsccccccccccscsccccsccccccccccs" />
+  </g>
+</svg>
